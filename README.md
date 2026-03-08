@@ -5,9 +5,7 @@
 ###
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
+  <a href="https://www.linkedin.com/in/spandreou/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
 </div>
 
 ###
@@ -52,15 +50,15 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="40" alt="vite logo" />
+  <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" height="40" alt="vite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt logo" />
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="40" alt="chatgpt logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Claude_AI_logo.svg" height="40" alt="claude logo" />
+  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160d139886530cae0.svg" height="40" alt="gemini logo" />
+  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" height="40" alt="gemini logo" />
 </div>
 
 ###
@@ -69,4 +67,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=spandreou&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+</div>>
