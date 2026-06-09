@@ -198,7 +198,7 @@ Personal server and automation environment for self-hosted tools and experiments
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spandreou&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spandreou&theme=github_dark" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandreou&layout=compact&theme=dark&hide_border=false&langs_count=8" height="180" alt="Top languages" />
 </div>
 
