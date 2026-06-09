@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm9qZzR0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm9qZzR0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 ###
@@ -30,6 +30,33 @@
   - ⚙️ Currently working with stacks used in my repositories: <b>Spring Boot</b>, <b>NestJS</b>, <b>React</b>, <b>TypeScript</b>, <b>PostgreSQL</b>, <b>Prisma</b>, <b>Docker</b> and <b>Tauri</b>.<br>
   - 🤖 Using AI tools as development assistants for architecture planning, code reviews, debugging and productivity workflows.
 </p>
+
+###
+
+<h3 align="left">🚧 Currently Building</h3>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏛️ <a href="https://github.com/spandreou/MunicipalPoliceProject">Municipal Police Management System</a></h4>
+      <p>Modern desktop and backend platform for municipal police operations, ticket lifecycle, vehicle records, reports and Greek / Greeklish fuzzy violation search.</p>
+    </td>
+    <td width="50%">
+      <h4>⚙️ <a href="https://github.com/spandreou/DeployOps">DeployOps</a></h4>
+      <p>Homelab deployment and monitoring platform with project registry, health checks, Docker service visibility, logs and deployment lifecycle tracking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>⛽ <a href="https://github.com/spandreou/GasStationProject">Gas Station Shift Manager</a></h4>
+      <p>Rule-based employee shift scheduling system with fairness rules, Sunday rotation, leave handling and custom business constraints.</p>
+    </td>
+    <td width="50%">
+      <h4>🏠 <a href="https://github.com/spandreou/homelabshare">Homelab / Automation</a></h4>
+      <p>Self-hosted services, Docker-based automation, remote access workflows and server experiments around a personal homelab environment.</p>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -87,6 +114,42 @@
 
 ###
 
+<h3 align="left">🏗️ Architecture Diagrams</h3>
+
+<h4 align="left">🏛️ Municipal Police Management System</h4>
+
+```mermaid
+flowchart LR
+  Officer[Municipal Police User] --> Desktop[Tauri Desktop App]
+  Desktop --> API[NestJS REST API]
+  API --> Auth[Auth / Roles]
+  API --> Tickets[Ticket Lifecycle]
+  API --> Vehicles[Vehicles & Owners]
+  API --> Search[Greek / Greeklish Fuzzy Search]
+  API --> Reports[Reports & PDF Printouts]
+  API --> DB[(PostgreSQL)]
+  API --> Prisma[Prisma ORM]
+  Prisma --> DB
+```
+
+<h4 align="left">⚙️ DeployOps</h4>
+
+```mermaid
+flowchart LR
+  Admin[Admin / DevOps User] --> UI[React + TypeScript UI]
+  UI --> API[Spring Boot REST API]
+  API --> Auth[JWT / Roles]
+  API --> Projects[Project Registry]
+  API --> Health[Health Checks]
+  API --> Docker[Docker Status & Logs]
+  API --> Deployments[Deployment History]
+  API --> DB[(PostgreSQL)]
+  API --> Flyway[Flyway Migrations]
+  Docker --> Compose[Docker Compose Services]
+```
+
+###
+
 <h3 align="left">🚀 Featured Projects</h3>
 
 <h4 align="left">🏛️ Municipal Police Management System</h4>
@@ -133,7 +196,16 @@ Personal server and automation environment for self-hosted tools and experiments
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spandreou&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandreou&layout=compact&theme=dark&hide_border=false&langs_count=8" height="180" alt="Top languages" />
+</div>
+
+###
+
+<h3 align="left">🔥 Contribution Streak</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=spandreou&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
