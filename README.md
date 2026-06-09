@@ -20,36 +20,116 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
   📍 Based in Greece 🇬🇷 <br><br>
-  - 🎓 <b>Computer Science Student</b> with a focus on <b>AI-driven development</b> and modern web architectures.<br>
-  - 📚 <b>Currently learning:</b> Integrating <b>LLMs</b> into web apps and mastering <b>Prompt Engineering</b>.<br>
-  - ⚡ <b>In my free time:</b> Experimenting with <b>AI agents</b> and building smart automation tools.
+  - 🎓 <b>Computer Science Student</b> focused on <b>full-stack development</b>, <b>DevOps practices</b> and <b>AI-assisted software engineering</b>.<br>
+  - 🚀 Building real-world projects with modern <b>backend</b>, <b>frontend</b>, <b>database</b> and <b>deployment</b> technologies.<br>
+  - 🧠 Interested in <b>AI-powered applications</b>, <b>automation tools</b>, <b>secure web systems</b> and <b>developer platforms</b>.<br>
+  - ⚙️ Currently working with stacks used in my repositories: <b>Spring Boot</b>, <b>NestJS</b>, <b>React</b>, <b>TypeScript</b>, <b>PostgreSQL</b>, <b>Prisma</b>, <b>Docker</b> and <b>Tauri</b>.<br>
+  - 🤖 Using AI tools as development assistants for architecture planning, code reviews, debugging and productivity workflows.
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠️ Tech Stack Used In My Projects</h3>
 
+<h4 align="left">Backend</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="gemini" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="rest api" />
 </div>
+
+<h4 align="left">Frontend / Desktop</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="tauri" />
+</div>
+
+<h4 align="left">Database / ORM</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="flyway" />
+</div>
+
+<h4 align="left">DevOps / Deployment</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker compose" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare" />
+</div>
+
+<h4 align="left">Security / Auth</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt" />
+  <img src="https://img.shields.io/badge/BCrypt-00457C?style=for-the-badge" alt="bcrypt" />
+  <img src="https://img.shields.io/badge/OWASP_Security-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="owasp" />
+</div>
+
+<h4 align="left">Tools & Workflow</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
+</div>
+
+###
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<h4 align="left">🏛️ Municipal Police Management System</h4>
+<p align="left">
+Modern desktop and backend system for municipal police operations.<br><br>
+<b>Tech Stack:</b> NestJS, PostgreSQL, Prisma ORM, Tauri, TypeScript, REST APIs, PDF generation, fuzzy search, real-time updates.<br><br>
+- Ticket lifecycle management<br>
+- Vehicle and owner records<br>
+- Greek / Greeklish fuzzy violation search<br>
+- PDF printouts and reports<br>
+- Admin diagnostics and operational tools
+</p>
+
+<h4 align="left">⚙️ DeployOps</h4>
+<p align="left">
+Homelab deployment and monitoring platform for managing projects, health checks, Docker services and deployment history.<br><br>
+<b>Tech Stack:</b> Java 21, Spring Boot, React, TypeScript, PostgreSQL, Docker, Docker Compose, JWT, Flyway.<br><br>
+- Project registry<br>
+- Health check history<br>
+- Docker status and logs viewer<br>
+- Role-based access control<br>
+- Deployment lifecycle simulation
+</p>
+
+<h4 align="left">⛽ Gas Station Shift Manager</h4>
+<p align="left">
+Shift scheduling system for gas station employees with custom business rules.<br><br>
+<b>Tech Stack:</b> TypeScript, scheduling logic, rule-based generator, frontend planning.<br><br>
+- Morning / afternoon / intermediate shift rules<br>
+- Sunday 12-hour shift rotation<br>
+- Leave and absence handling<br>
+- Fairness rules and employee constraints
+</p>
+
+<h4 align="left">🏠 Homelab / Automation Projects</h4>
+<p align="left">
+Personal server and automation environment for self-hosted tools and experiments.<br><br>
+<b>Tech Stack:</b> Linux, Docker, Docker Compose, Cloudflare, Tailscale, Pi-hole, automation scripts.<br><br>
+- Self-hosted services<br>
+- Network-level ad blocking<br>
+- Remote access workflows<br>
+- Server automation experiments
+</p>
 
 ###
 
