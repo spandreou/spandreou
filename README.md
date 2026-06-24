@@ -147,6 +147,24 @@ flowchart LR
   Docker --> Compose[Docker Compose Services]
 ```
 
+<h4 align="left">⛽ Gas Station Shift Manager</h4>
+
+```mermaid
+flowchart LR
+  Manager[Gas Station Manager] --> UI[React + TypeScript UI]
+  UI --> Auth[Firebase Authentication]
+  UI --> Scheduler[Shift Scheduling Engine]
+  Scheduler --> Rules[Business Rules]
+  Rules --> Rotation[Sunday Rotation]
+  Rules --> Leaves[Leave & Absence Handling]
+  Rules --> Fairness[Fairness Constraints]
+  UI --> Store[(Firestore Database)]
+  Auth --> Access[Tenant Membership Access]
+  Store --> Employees[Employees]
+  Store --> Shifts[Generated Shifts]
+  Store --> Settings[Station Settings]
+```
+
 ###
 
 <h3 align="left">🚀 Featured Projects</h3>
