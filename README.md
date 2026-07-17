@@ -6,6 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/spandreou/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="https://spandreou.vercel.app/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" /></a>
 </div>
 
 ###
@@ -16,7 +17,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey, I'm Spyridon Andreou 👋</h1>
+<p align="center"><b>Junior Full-Stack Developer | AI Automation & Integrations</b></p>
 
 ###
 
@@ -24,11 +26,11 @@
 
 <p align="left">
   📍 Based in Greece 🇬🇷 <br><br>
-  - 🎓 <b>Computer Science Student</b> focused on <b>full-stack development</b>, <b>DevOps practices</b> and <b>AI-assisted software engineering</b>.<br>
-  - 🚀 Building real-world projects with modern <b>backend</b>, <b>frontend</b>, <b>database</b> and <b>deployment</b> technologies.<br>
-  - 🧠 Interested in <b>AI-powered applications</b>, <b>automation tools</b>, <b>secure web systems</b> and <b>developer platforms</b>.<br>
-  - ⚙️ Currently working with stacks used in my repositories: <b>Spring Boot</b>, <b>NestJS</b>, <b>React</b>, <b>TypeScript</b>, <b>PostgreSQL</b>, <b>Prisma</b>, <b>Docker</b> and <b>Tauri</b>.<br>
-  - 🤖 Using AI tools as development assistants for architecture planning, code reviews, debugging and productivity workflows.
+  - 🎓 <b>Digital Systems undergraduate</b> entering the final year at the <b>University of Thessaly</b>.<br>
+  - 🚀 Focused on <b>full-stack development</b>, <b>AI automation and integrations</b>, <b>DevOps practices</b>, and <b>self-hosted infrastructure</b>.<br>
+  - 🧩 Building end-to-end applications with authentication, RBAC, real-time communication, automation, testing, and production deployments.<br>
+  - ⚙️ Working with <b>React</b>, <b>TypeScript</b>, <b>Java</b>, <b>Spring Boot</b>, <b>NestJS</b>, <b>PostgreSQL</b>, <b>Prisma</b>, <b>Docker</b>, <b>Linux</b>, and <b>Cloudflare</b>.<br>
+  - 🤖 Using generative AI tools for agent-based workflows, structured integrations, architecture planning, debugging, testing, and productivity, with human validation of the output.
 </p>
 
 ###
@@ -38,22 +40,22 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🏛️ <a href="https://github.com/spandreou/MunicipalPoliceProject">Municipal Police Management System</a></h4>
-      <p>Modern desktop and backend platform for municipal police operations, ticket lifecycle, vehicle records, reports and Greek / Greeklish fuzzy violation search.</p>
+      <h4>🏛️ <a href="https://github.com/spandreou/MunicipalPoliceProject">Municipal Police Management Platform</a></h4>
+      <p>Desktop and API platform for municipal enforcement workflows, ticket lifecycle, vehicle records, audit history, Greek / Greeklish fuzzy search, real-time updates, and PDF reporting.</p>
     </td>
     <td width="50%">
-      <h4>⚙️ <a href="https://github.com/spandreou/DeployOps">DeployOps</a></h4>
-      <p>Homelab deployment and monitoring platform with project registry, health checks, Docker service visibility, logs and deployment lifecycle tracking.</p>
+      <h4>🖥️ HomeOps</h4>
+      <p>Central homelab operations dashboard for service health, containers, networks, Cloudflare tunnels, incidents, backups, alerts, history, dependency intelligence, and operational recommendations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>⛽ <a href="https://github.com/spandreou/GasStationProject">Gas Station Shift Manager</a></h4>
-      <p>Rule-based employee shift scheduling system with fairness rules, Sunday rotation, leave handling and custom business constraints.</p>
+      <h4>🗓️ <a href="https://github.com/spandreou/GasStationProject">ShiftFlow</a></h4>
+      <p>Production shift-planning application with rule-based schedule generation, drag-and-drop editing, rest-day constraints, history, analytics, templates, and exports.</p>
     </td>
     <td width="50%">
-      <h4>🏠 <a href="https://github.com/spandreou/homelabshare">Homelab / Automation</a></h4>
-      <p>Self-hosted services, Docker-based automation, remote access workflows and server experiments around a personal homelab environment.</p>
+      <h4>📁 <a href="https://github.com/spandreou/homelabshare">HomeLabShare</a></h4>
+      <p>Self-hosted file-sharing platform with authentication, per-user quotas, uploads, share links, favourites, invite codes, and administration tools.</p>
     </td>
   </tr>
 </table>
@@ -75,6 +77,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" />
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="tauri" />
@@ -84,6 +87,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="flyway" />
 </div>
 
@@ -94,6 +98,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
+</div>
+
+<h4 align="left">AI & Automation</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Generative_AI_Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" alt="generative ai integrations" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" alt="ai agents" />
+  <img src="https://img.shields.io/badge/LLM_Workflows-7C3AED?style=for-the-badge" alt="llm workflows" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-0F766E?style=for-the-badge" alt="structured outputs" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge" alt="prompt engineering" />
 </div>
 
 <h4 align="left">Security / Auth</h4>
@@ -103,112 +118,117 @@
   <img src="https://img.shields.io/badge/OWASP_Security-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="owasp" />
 </div>
 
-<h4 align="left">Tools & Workflow</h4>
+<h4 align="left">Testing & Workflow</h4>
 <div align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
 </div>
 
 ###
 
 <h3 align="left">🏗️ Architecture Diagrams</h3>
 
-<h4 align="left">🏛️ Municipal Police Management System</h4>
+<h4 align="left">🏛️ Municipal Police Management Platform</h4>
 
 ```mermaid
 flowchart LR
   Officer[Municipal Police User] --> Desktop[Tauri Desktop App]
   Desktop --> API[NestJS REST API]
-  API --> Auth[Auth / Roles]
+  API --> Auth[JWT Auth / RBAC]
   API --> Tickets[Ticket Lifecycle]
   API --> Vehicles[Vehicles & Owners]
   API --> Search[Greek / Greeklish Fuzzy Search]
   API --> Reports[Reports & PDF Printouts]
-  API --> DB[(PostgreSQL)]
+  API --> Realtime[Socket.IO Updates]
   API --> Prisma[Prisma ORM]
-  Prisma --> DB
+  Prisma --> DB[(PostgreSQL)]
 ```
 
-<h4 align="left">⚙️ DeployOps</h4>
+<h4 align="left">🖥️ HomeOps</h4>
 
 ```mermaid
 flowchart LR
-  Admin[Admin / DevOps User] --> UI[React + TypeScript UI]
-  UI --> API[Spring Boot REST API]
-  API --> Auth[JWT / Roles]
-  API --> Projects[Project Registry]
-  API --> Health[Health Checks]
-  API --> Docker[Docker Status & Logs]
-  API --> Deployments[Deployment History]
-  API --> DB[(PostgreSQL)]
-  API --> Flyway[Flyway Migrations]
-  Docker --> Compose[Docker Compose Services]
+  Admin[Homelab Administrator] --> UI[React Operations Dashboard]
+  UI --> API[HomeOps API]
+
+  Monitor[Python Monitoring & Reporting] --> Services[Self-Hosted Services]
+  Monitor --> Host[Linux Host & Storage]
+  Monitor --> Docker[Docker Runtime]
+  Monitor --> Tunnels[Cloudflare Tunnels]
+  Monitor --> State[(State Snapshots & JSONL History)]
+
+  API --> State
+  API --> Status[Services / Containers / Networks]
+  API --> Operations[Deployments / Backups / Alerts]
+  API --> Incidents[Incidents & Timeline]
+  API --> Intelligence[Dependencies / Correlation / Recommendations]
 ```
 
-<h4 align="left">⛽ Gas Station Shift Manager</h4>
+<h4 align="left">🗓️ ShiftFlow</h4>
 
 ```mermaid
 flowchart LR
-  Manager[Gas Station Manager] --> UI[React + TypeScript UI]
+  Manager[Business Manager] --> UI[React + TypeScript UI]
   UI --> Auth[Firebase Authentication]
-  UI --> Scheduler[Shift Scheduling Engine]
-  Scheduler --> Rules[Business Rules]
+  UI --> Scheduler[Rule-Based Scheduling Engine]
+  Scheduler --> Rules[Business Constraints]
   Rules --> Rotation[Sunday Rotation]
-  Rules --> Leaves[Leave & Absence Handling]
+  Rules --> Rest[Rest-Day Rules]
+  Rules --> Availability[Leave & Availability]
   Rules --> Fairness[Fairness Constraints]
-  UI --> Store[(Firestore Database)]
-  Auth --> Access[Tenant Membership Access]
+  UI --> Store[(Cloud Firestore)]
   Store --> Employees[Employees]
-  Store --> Shifts[Generated Shifts]
-  Store --> Settings[Station Settings]
+  Store --> Shifts[Schedules & History]
+  Store --> Settings[Templates & Settings]
 ```
 
 ###
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-<h4 align="left">🏛️ Municipal Police Management System</h4>
+<h4 align="left">🏛️ Municipal Police Management Platform</h4>
 <p align="left">
-Modern desktop and backend system for municipal police operations.<br><br>
-<b>Tech Stack:</b> NestJS, PostgreSQL, Prisma ORM, Tauri, TypeScript, REST APIs, PDF generation, fuzzy search, real-time updates.<br><br>
-- Ticket lifecycle management<br>
-- Vehicle and owner records<br>
+Desktop and API system for municipal enforcement operations.<br><br>
+<b>Tech Stack:</b> React, TypeScript, Tauri, NestJS, PostgreSQL, Prisma, Socket.IO, Docker, Jest, Playwright, Cloudflare Tunnel.<br><br>
+- JWT authentication and role-based access control<br>
+- Ticket lifecycle, vehicle, owner, and plate-history management<br>
 - Greek / Greeklish fuzzy violation search<br>
-- PDF printouts and reports<br>
-- Admin diagnostics and operational tools
+- Real-time updates, audit history, PDF printouts, and reports<br>
+- Automated backend and end-to-end testing
 </p>
 
-<h4 align="left">⚙️ DeployOps</h4>
+<h4 align="left">🖥️ HomeOps</h4>
 <p align="left">
-Homelab deployment and monitoring platform for managing projects, health checks, Docker services and deployment history.<br><br>
-<b>Tech Stack:</b> Java 21, Spring Boot, React, TypeScript, PostgreSQL, Docker, Docker Compose, JWT, Flyway.<br><br>
-- Project registry<br>
-- Health check history<br>
-- Docker status and logs viewer<br>
-- Role-based access control<br>
-- Deployment lifecycle simulation
+Central operations and observability workspace for a self-hosted homelab.<br><br>
+<b>Tech Stack:</b> React, Node.js, Python, Docker, Linux, Cloudflare, JSON / JSONL state pipelines.<br><br>
+- Service, host, storage, container, network, and tunnel visibility<br>
+- Incidents, alerts, backups, operational history, and timelines<br>
+- Dependency graph, incident correlation, recommendations, and intelligence scoring<br>
+- Deployment operations integrated into the wider HomeOps control center<br>
+- State-backed API design with monitoring and reporting automation
 </p>
 
-<h4 align="left">⛽ Gas Station Shift Manager</h4>
+<h4 align="left">🗓️ ShiftFlow</h4>
 <p align="left">
-Shift scheduling system for gas station employees with custom business rules.<br><br>
-<b>Tech Stack:</b> TypeScript, scheduling logic, rule-based generator, frontend planning.<br><br>
-- Morning / afternoon / intermediate shift rules<br>
-- Sunday 12-hour shift rotation<br>
-- Leave and absence handling<br>
-- Fairness rules and employee constraints
+Production shift-planning application with configurable business rules.<br><br>
+<b>Tech Stack:</b> React, TypeScript, Firebase, Firestore, Zustand, dnd-kit, Vercel.<br><br>
+- Rule-based schedule generation<br>
+- Drag-and-drop editing and manual overrides<br>
+- Rest-day, Sunday rotation, availability, and fairness constraints<br>
+- History, analytics, templates, locking, and exports
 </p>
 
-<h4 align="left">🏠 Homelab / Automation Projects</h4>
+<h4 align="left">📁 HomeLabShare</h4>
 <p align="left">
-Personal server and automation environment for self-hosted tools and experiments.<br><br>
-<b>Tech Stack:</b> Linux, Docker, Docker Compose, Cloudflare, Tailscale, Pi-hole, automation scripts.<br><br>
-- Self-hosted services<br>
-- Network-level ad blocking<br>
-- Remote access workflows<br>
-- Server automation experiments
+Self-hosted file-sharing platform with user-level access and administration tools.<br><br>
+<b>Tech Stack:</b> Next.js, TypeScript, Prisma, PostgreSQL, Docker, Cloudflare Tunnel.<br><br>
+- Authentication and per-user storage quotas<br>
+- File and URL uploads, favourites, and recent items<br>
+- Share links and invite-code workflows<br>
+- Administration, search, sorting, and usage visibility
 </p>
 
 ###
