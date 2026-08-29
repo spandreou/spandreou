@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>🗓️ <a href="https://github.com/spandreou/GasStationProject">ShiftFlow</a></h4>
+      <h4>🗓️ <a href="https://github.com/spandreou/shiftoryx">shiftoryx</a></h4>
       <p>Production shift-planning application with rule-based schedule generation, drag-and-drop editing, rest-day constraints, history, analytics, templates, and exports.</p>
     </td>
     <td width="50%">
@@ -167,7 +167,7 @@ flowchart LR
   API --> Intelligence[Dependencies / Correlation / Recommendations]
 ```
 
-<h4 align="left">🗓️ ShiftFlow</h4>
+<h4 align="left">🗓️ shiftoryx</h4>
 
 ```mermaid
 flowchart LR
@@ -211,7 +211,7 @@ Central operations and observability workspace for a self-hosted homelab.<br><br
 - State-backed API design with monitoring and reporting automation
 </p>
 
-<h4 align="left">🗓️ ShiftFlow</h4>
+<h4 align="left">🗓️ shiftoryx</h4>
 <p align="left">
 Production shift-planning application with configurable business rules.<br><br>
 <b>Tech Stack:</b> React, TypeScript, Firebase, Firestore, Zustand, dnd-kit, Vercel.<br><br>
