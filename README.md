@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hey, I'm Spyridon Andreou 👋</h1>
+<h1 align="center">Hey, I'm Spiros !  👋</h1>
 <p align="center"><b>Junior Full-Stack Developer | AI Automation & Integrations</b></p>
 
 ###
