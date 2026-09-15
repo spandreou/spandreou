@@ -185,6 +185,25 @@ flowchart LR
   Store --> Settings[Templates & Settings]
 ```
 
+<h4 align="left">🤖 ESKASE AI</h4>
+
+```mermaid
+flowchart LR
+  Mail[Historical Mailbox Export] --> Parse[Read-Only Parser & Canonicalizer]
+  Parse --> Threads[Conversation Reconstruction]
+  Threads --> Governance[Memory Governance]
+  Governance --> Action[ACTION_EVIDENCE]
+  Governance --> Topic[TOPIC_CONTEXT]
+  Governance --> Response[RESPONSE_CONTENT]
+  Action --> Embed[OpenAI Embeddings]
+  Topic --> Embed
+  Response --> Embed
+  Embed --> Vector[(PostgreSQL + pgvector)]
+  Vector --> Retrieval[Semantic Retrieval]
+  Retrieval --> Decision[Shadow / Future Decision Engine]
+  Decision --> Safety[Human Triage & Safety Gates]
+```
+
 ###
 
 <h3 align="left">🚀 Featured Projects</h3>
