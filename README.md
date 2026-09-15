@@ -188,20 +188,23 @@ flowchart LR
 <h4 align="left">🤖 ESKASE AI</h4>
 
 ```mermaid
-flowchart LR
-  Mail[Historical Mailbox Export] --> Parse[Read-Only Parser & Canonicalizer]
-  Parse --> Threads[Conversation Reconstruction]
-  Threads --> Governance[Memory Governance]
-  Governance --> Action[ACTION_EVIDENCE]
-  Governance --> Topic[TOPIC_CONTEXT]
-  Governance --> Response[RESPONSE_CONTENT]
-  Action --> Embed[OpenAI Embeddings]
+flowchart TB
+  Mail["Historical Mailbox<br/>Export"] --> Parse["Read-Only Parser<br/>& Canonicalizer"]
+  Parse --> Threads["Conversation<br/>Reconstruction"]
+  Threads --> Governance["Memory<br/>Governance"]
+
+  Governance --> Action["ACTION_EVIDENCE"]
+  Governance --> Topic["TOPIC_CONTEXT"]
+  Governance --> Response["RESPONSE_CONTENT"]
+
+  Action --> Embed["OpenAI<br/>Embeddings"]
   Topic --> Embed
   Response --> Embed
-  Embed --> Vector[(PostgreSQL + pgvector)]
-  Vector --> Retrieval[Semantic Retrieval]
-  Retrieval --> Decision[Shadow / Future Decision Engine]
-  Decision --> Safety[Human Triage & Safety Gates]
+
+  Embed --> Vector[("PostgreSQL<br/>+ pgvector")]
+  Vector --> Retrieval["Semantic<br/>Retrieval"]
+  Retrieval --> Decision["Shadow / Future<br/>Decision Engine"]
+  Decision --> Safety["Human Triage<br/>& Safety Gates"]
 ```
 
 ###
